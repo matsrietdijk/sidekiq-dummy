@@ -1,0 +1,7 @@
+{
+  "name": "Sidekiq dummy",
+  "description": "Generates dummy Sidekiq data",
+  "repository": "https://github.com/matsrietdijk/sidekiq-dummy",
+  "keyworks": ["ruby", "sidekiq", "data", "fake"],
+  "addons": ["heroku-redis:hobby-dev"]
+}
